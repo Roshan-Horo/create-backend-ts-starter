@@ -1,7 +1,8 @@
 {
-  "name": "create-backend-ts-starter",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@rh_packages/create-backend-ts-starter",
+  "version": "1.0.1",
+  "description": "A starter Project for node & express with ts.",
+  "bin": "./bin/cli.js",
   "main": "src/server.ts",
   "scripts": {
     "start": "node build/src/server.js",
